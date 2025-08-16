@@ -1,3 +1,4 @@
+// author - Jithin Thomas Jacob
 import React from "react";
 import { useSelector } from "react-redux";
 import "./style.scss";
