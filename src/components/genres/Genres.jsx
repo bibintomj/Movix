@@ -1,3 +1,5 @@
+// coded by - Gihan Edirinsinge Kodikare
+
 import React from "react";
 import { useSelector } from "react-redux";
 import "./style.scss";
